@@ -28,7 +28,7 @@ I learn by building. That has taken me from investment-data pipelines and reconc
 
 - **Data you can trust** — validation, reconciliation, audit trails, privacy, and repeatable pipelines.
 - **Systems you can understand** — visual architecture, failure simulation, observability, and learning by doing.
-- **AI with a practical purpose** — local transcription, useful automation, and human-in-the-loop workflows.
+- **AI with a practical purpose** — useful automation, and human-in-the-loop workflows.
 - **Products from end to end** — thoughtful interfaces backed by secure APIs, durable data, and clear trade-offs.
 
 ## Toolbox
@@ -62,7 +62,7 @@ An interactive way to learn system design by watching requests move, understandi
 
 ## Complete repository map
 
-There are **11 project repositories** below—five public and six private—plus the profile repository that powers this page.
+There are **9 project repositories** below—five public and four private—plus the profile repository that powers this page.
 
 ### Public projects
 
@@ -80,26 +80,8 @@ There are **11 project repositories** below—five public and six private—plus
 | --- | --- | --- |
 | `ByteBachelor` 🔒 | The interactive learning website behind the ByteBachelor ecosystem: animated request flows, plain-English lessons, architecture templates, validation, failure injection, and trace simulation. | React, TypeScript, Vite, React Flow |
 | `JobSearch` 🔒 · [Live service](https://mindkraft.co.uk) | A queue-driven JobSpy service that schedules role searches, processes one role at a time, stores new jobs securely, and exposes an acknowledge-after-receipt API. | Python, Flask, PostgreSQL, Supabase, Vercel |
-| `RRR` 🔒 · [Live product](https://ramsroaming.vercel.app) | Ram's Roaming Restaurant: a pickup-ordering MVP with menu management, admin authentication, persistent orders, image uploads, and a print-ready menu. | Next.js, TypeScript, Prisma, PostgreSQL, Tailwind |
-| `Portfolio-ReactSingleFile` 🔒 · [Live portfolio](https://swamyguruvelli.vercel.app) | A deployable personal portfolio whose content can be maintained through an authenticated CMS that commits structured updates back to GitHub. | HTML, CSS, JavaScript, Decap CMS, GitHub OAuth, Vercel |
-| `swamyguruvelli.github.io` 🔒 | An earlier responsive portfolio exploring accessible navigation, theme switching, experience storytelling, and personal branding. | HTML, CSS, JavaScript |
-
-## GitHub at a glance
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=swamy-guruvelli&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=64748b&icon_color=06b6d4"
-    alt="Swamy's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swamy-guruvelli&layout=compact&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=64748b"
-    alt="Swamy's most-used languages"
-  />
-</div>
-
----
+| `RRR` 🔒 · [Live product](https://rams-restaurant.vercel.app) | Ram's Roaming Restaurant: a pickup-ordering MVP with menu management, admin authentication, persistent orders, image uploads, and a print-ready menu. | Next.js, TypeScript, Prisma, PostgreSQL, Tailwind |
+| `Portfolio-ReactSingleFile` 🔒 · [Live portfolio](https://swamy-guruvelli.vercel.app) | A deployable personal portfolio whose content can be maintained through an authenticated CMS that commits structured updates back to GitHub. | HTML, CSS, JavaScript, Decap CMS, GitHub OAuth, Vercel |
 
 <div align="center">
   <strong>I am always learning, always building, and always interested in a problem worth solving.</strong>
