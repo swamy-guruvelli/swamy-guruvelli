@@ -84,7 +84,7 @@ There are **9 project repositories** below—five public and four private—plus
 | `Portfolio-ReactSingleFile` 🔒 · [Live portfolio](https://swamy-guruvelli.vercel.app) | A deployable personal portfolio whose content can be maintained through an authenticated CMS that commits structured updates back to GitHub. | HTML, CSS, JavaScript, Decap CMS, GitHub OAuth, Vercel |
 
 <div align="center">
-  <strong>I am always learning, always building, and always interested in a problem worth solving.</strong>
+ <strong>Good software makes complex work feel simple.</strong>
   <br />
-  <sub>If one of these ideas connects with you, <a href="mailto:swamy.guruvelli1@gmail.com">let's talk</a>.</sub>
+  <sub>Have an idea worth building? Start a conversation in one of my repositories.<a href = "mailto:swamy.guruvelli1@gmail.com" > let's talk</a>.</sub>
 </div>
