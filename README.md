@@ -60,10 +60,6 @@ An interactive way to learn system design by watching requests move, understandi
 
 [Wealth Data Integration Platform](https://github.com/swamy-guruvelli/Wealthdata-project) normalises provider feeds into a validated canonical model, while the [Investment Reconciliation Engine](https://github.com/swamy-guruvelli/investment-reconciliation-engine) reconstructs positions and classifies breaks. Together they explore the part of engineering I find especially rewarding: making financial data explainable, testable, and safe.
 
-### MeetMuse
-
-A private Windows meeting assistant that captures system or microphone audio, transcribes locally with Whisper, lets the user edit the transcript, and then asks a selected LLM. It supports multiple transcript lanes, OpenRouter, Ollama, OpenAI-compatible APIs, WebSockets, and a shareable browser viewer.
-
 ## Complete repository map
 
 There are **11 project repositories** below—five public and six private—plus the profile repository that powers this page.
@@ -80,14 +76,11 @@ There are **11 project repositories** below—five public and six private—plus
 
 ### Private builds
 
-> These names and summaries are shared intentionally; their source code remains private. Public demos are linked where available.
-
 | Repository | What I built | Main technologies |
 | --- | --- | --- |
 | `ByteBachelor` 🔒 | The interactive learning website behind the ByteBachelor ecosystem: animated request flows, plain-English lessons, architecture templates, validation, failure injection, and trace simulation. | React, TypeScript, Vite, React Flow |
-| `JobSearch` 🔒 · [Live service](https://job-search-omega-eight.vercel.app) | A queue-driven JobSpy service that schedules role searches, processes one role at a time, stores new jobs securely, and exposes an acknowledge-after-receipt API. | Python, Flask, PostgreSQL, Supabase, Vercel |
-| `RRR` 🔒 · [Live product](https://rrr-snowy.vercel.app) | Ram's Roaming Restaurant: a pickup-ordering MVP with menu management, admin authentication, persistent orders, image uploads, and a print-ready menu. | Next.js, TypeScript, Prisma, PostgreSQL, Tailwind |
-| `MeetMuse` 🔒 | A Windows desktop AI meeting assistant with local Whisper transcription, editable dual transcript lanes, LLM workflows, and live browser sharing. | Python, faster-whisper, WebSockets, OpenRouter/Ollama |
+| `JobSearch` 🔒 · [Live service](https://mindkraft.co.uk) | A queue-driven JobSpy service that schedules role searches, processes one role at a time, stores new jobs securely, and exposes an acknowledge-after-receipt API. | Python, Flask, PostgreSQL, Supabase, Vercel |
+| `RRR` 🔒 · [Live product](https://ramsroaming.vercel.app) | Ram's Roaming Restaurant: a pickup-ordering MVP with menu management, admin authentication, persistent orders, image uploads, and a print-ready menu. | Next.js, TypeScript, Prisma, PostgreSQL, Tailwind |
 | `Portfolio-ReactSingleFile` 🔒 · [Live portfolio](https://swamyguruvelli.vercel.app) | A deployable personal portfolio whose content can be maintained through an authenticated CMS that commits structured updates back to GitHub. | HTML, CSS, JavaScript, Decap CMS, GitHub OAuth, Vercel |
 | `swamyguruvelli.github.io` 🔒 | An earlier responsive portfolio exploring accessible navigation, theme switching, experience storytelling, and personal branding. | HTML, CSS, JavaScript |
 
