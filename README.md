@@ -6,7 +6,7 @@
   />
 
   <p>
-    <a href="https://swamyguruvelli.vercel.app">
+    <a href="https://swamy-guruvelli.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/swamyguruvelli">
@@ -78,13 +78,23 @@ There are **9 project repositories** below—five public and four private—plus
 
 | Repository | What I built | Main technologies |
 | --- | --- | --- |
-| `ByteBachelor` 🔒 | The interactive learning website behind the ByteBachelor ecosystem: animated request flows, plain-English lessons, architecture templates, validation, failure injection, and trace simulation. | React, TypeScript, Vite, React Flow |
-| `JobSearch` 🔒 · [Live service](https://mindkraft.co.uk) | A queue-driven JobSpy service that schedules role searches, processes one role at a time, stores new jobs securely, and exposes an acknowledge-after-receipt API. | Python, Flask, PostgreSQL, Supabase, Vercel |
-| `RRR` 🔒 · [Live product](https://rams-restaurant.vercel.app) | Ram's Roaming Restaurant: a pickup-ordering MVP with menu management, admin authentication, persistent orders, image uploads, and a print-ready menu. | Next.js, TypeScript, Prisma, PostgreSQL, Tailwind |
-| `Portfolio-ReactSingleFile` 🔒 · [Live portfolio](https://swamy-guruvelli.vercel.app) | A deployable personal portfolio whose content can be maintained through an authenticated CMS that commits structured updates back to GitHub. | HTML, CSS, JavaScript, Decap CMS, GitHub OAuth, Vercel |
+| [`ByteBachelor`](https://bytebachelor.swamy-guruvelli1.workers.dev) 🔒| The interactive learning website behind the ByteBachelor ecosystem: animated request flows, plain-English lessons, architecture templates, validation, failure injection, and trace simulation. | React, TypeScript, Vite, React Flow |
+|[ `JobSearch`](https://mindkraft.co.uk) 🔒| A queue-driven JobSpy service that schedules role searches, processes one role at a time, stores new jobs securely, and exposes an acknowledge-after-receipt API. | Python, Flask, PostgreSQL, Supabase, Vercel |
+| [`RRR`](https://rams-restaurant.vercel.app) 🔒| Ram's Roaming Restaurant: a pickup-ordering MVP with menu management, admin authentication, persistent orders, image uploads, and a print-ready menu. | Next.js, TypeScript, Prisma, PostgreSQL, Tailwind |
+| [`Portfolio`](https://swamy-guruvelli.vercel.app) 🔒| A deployable personal portfolio whose content can be maintained through an authenticated CMS that commits structured updates back to GitHub. | HTML, CSS, JavaScript, Decap CMS, GitHub OAuth, Vercel |
 
 <div align="center">
  <strong>Good software makes complex work feel simple.</strong>
   <br />
-  <sub>Have an idea worth building? Start a conversation in one of my repositories.<a href = "mailto:swamy.guruvelli1@gmail.com" > let's talk</a>.</sub>
+  <sub>Have an idea worth building? Connect me through.</sub>
+
+  <p>
+     <br />
+    <a href="https://www.linkedin.com/in/swamyguruvelli">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:swamy.guruvelli1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Swamy" />
+    </a>
+  </p>
 </div>
