@@ -2,7 +2,7 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=225&section=header&text=Swamy%20Guruvelli&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Data%20Builder%20%E2%80%A2%20Relentless%20Learner&descAlignY=57&descSize=18&animation=fadeIn"
-    alt="Swamy Guruvelli — Software Engineer, Data Builder, Relentless Learner"
+    alt="Swamy Guruvelli | Software Engineer, Data Builder, Relentless Learner"
   />
 
   <p>
@@ -18,18 +18,18 @@
   </p>
 </div>
 
-## Hello, I'm Swamy
+## Hello there, I’m Swamy
 
-I am a software engineer with an MSc in Data Science and Analytics—and a lot of enthusiasm for turning ambitious ideas into working systems.
+I am a software engineer with an MSc in Data Science and Analytics and a lot of enthusiasm for turning ambitious ideas into working systems.
 
 I learn by building. That has taken me from metadata-driven investment pipelines, temporal security masters, and portfolio analytics to an interactive system-design classroom, a local AI meeting assistant, mobile apps, job-search automation, and full-stack ordering products. I enjoy making complex flows understandable, reliable, and genuinely useful.
 
 ### What keeps me curious
 
-- **Data you can trust** — validation, reconciliation, audit trails, privacy, and repeatable pipelines.
-- **Systems you can understand** — visual architecture, failure simulation, observability, and learning by doing.
-- **AI with a practical purpose** — useful automation, and human-in-the-loop workflows.
-- **Products from end to end** — thoughtful interfaces backed by secure APIs, durable data, and clear trade-offs.
+- **Data you can trust** : validation, reconciliation, audit trails, privacy, and repeatable pipelines.
+- **Systems you can understand** : visual architecture, failure simulation, observability, and learning by doing.
+- **AI with a practical purpose** : useful automation, and human-in-the-loop workflows.
+- **Products from end to end** : thoughtful interfaces backed by secure APIs, durable data, and clear trade-offs.
 
 ## Toolbox
 
@@ -67,7 +67,7 @@ An interactive way to learn system design by watching requests move, understandi
 
 ## Complete repository map
 
-There are **13 project repositories** below—nine public and four private—plus the profile repository that powers this page.
+There are **13 project repositories** below nine public and four private plus the profile repository that powers this page.
 
 ### Public projects
 
@@ -81,7 +81,7 @@ There are **13 project repositories** below—nine public and four private—plu
 | [investment-reconciliation-engine](https://github.com/swamy-guruvelli/investment-reconciliation-engine) | A reproducible engine that rebuilds holdings from synthetic transactions, compares snapshots with tolerances, and categorises exceptions. | Python, DuckDB, Pandera |
 | [ByteBachelor-projects](https://github.com/swamy-guruvelli/ByteBachelor-projects) | Fifteen progressive system-design labs covering APIs, caching, queues, chat, search, payments, observability, analytics, and multi-region systems. | Python, distributed-systems patterns |
 | [TaskMonkey](https://github.com/swamy-guruvelli/TaskMonkey) | A mobile-first task manager with reminders, biometric unlock, real-time data, and secure manager-to-user task assignment. | TypeScript, React Native, Expo, Firebase |
-| [Luck](https://github.com/swamy-guruvelli/Luck) | A small Android experiment that displays a random message once per interaction—a simple early project focused on UI events and application state. | Java, Android, ConstraintLayout |
+| [Luck](https://github.com/swamy-guruvelli/Luck) | A small Android experiment that displays a random message once per interaction a simple early project focused on UI events and application state. | Java, Android, ConstraintLayout |
 
 ### Private builds
 
