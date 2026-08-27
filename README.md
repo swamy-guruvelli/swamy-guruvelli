@@ -22,7 +22,7 @@
 
 I am a software engineer with an MSc in Data Science and Analytics—and a lot of enthusiasm for turning ambitious ideas into working systems.
 
-I learn by building. That has taken me from investment-data pipelines and reconciliation engines to an interactive system-design classroom, a local AI meeting assistant, mobile apps, job-search automation, and full-stack ordering products. I enjoy making complex flows understandable, reliable, and genuinely useful.
+I learn by building. That has taken me from metadata-driven investment pipelines, temporal security masters, and portfolio analytics to an interactive system-design classroom, a local AI meeting assistant, mobile apps, job-search automation, and full-stack ordering products. I enjoy making complex flows understandable, reliable, and genuinely useful.
 
 ### What keeps me curious
 
@@ -47,6 +47,7 @@ I learn by building. That has taken me from investment-data pipelines and reconc
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
 </p>
 
@@ -58,16 +59,24 @@ An interactive way to learn system design by watching requests move, understandi
 
 ### Financial data engineering
 
-[Wealth Data Integration Platform](https://github.com/swamy-guruvelli/Wealthdata-project) normalises provider feeds into a validated canonical model, while the [Investment Reconciliation Engine](https://github.com/swamy-guruvelli/investment-reconciliation-engine) reconstructs positions and classifies breaks. Together they explore the part of engineering I find especially rewarding: making financial data explainable, testable, and safe.
+[Metadata-Driven Investment Data Pipelines](https://github.com/swamy-guruvelli/metadata-driven-investment-pipelines) onboards providers through YAML contracts, while [Temporal Security Master](https://github.com/swamy-guruvelli/temporal-security-master) resolves identifiers and corporate actions as they stood on past dates. The [Portfolio Analytics Data Mart](https://github.com/swamy-guruvelli/portfolio-analytics-data-mart) turns synthetic holdings into adviser-scoped performance views. Together with the [Wealth Data Integration Platform](https://github.com/swamy-guruvelli/Wealthdata-project) and [Investment Reconciliation Engine](https://github.com/swamy-guruvelli/investment-reconciliation-engine), these projects explore the part of engineering I find especially rewarding: making financial data explainable, testable, and safe.
+
+### Engineering for better builds
+
+[Production Web Standard](https://github.com/swamy-guruvelli/Production-Website-Builder-skill) is an open-source Codex skill that turns ordinary website requests into a practical production contract covering responsive behavior, accessibility, security-aware routing, complete application states, and real browser verification.
 
 ## Complete repository map
 
-There are **9 project repositories** below—five public and four private—plus the profile repository that powers this page.
+There are **13 project repositories** below—nine public and four private—plus the profile repository that powers this page.
 
 ### Public projects
 
 | Repository | What I built | Main technologies |
 | --- | --- | --- |
+| [metadata-driven-investment-pipelines](https://github.com/swamy-guruvelli/metadata-driven-investment-pipelines) | A configuration-led ingestion engine where YAML contracts define provider formats, mappings, validation, load strategies, PostgreSQL persistence, and quarantine handling. | Python, Pydantic, PostgreSQL, dbt, YAML |
+| [temporal-security-master](https://github.com/swamy-guruvelli/temporal-security-master) | A point-in-time security master that resolves ISINs, tickers, and LEIs across temporal versions while applying corporate actions without overlapping history. | Python, FastAPI, PostgreSQL, dbt, Pydantic |
+| [portfolio-analytics-data-mart](https://github.com/swamy-guruvelli/portfolio-analytics-data-mart) | A Streamlit data mart for synthetic portfolio valuations, SCD2 dimensions, adviser-scoped access, allocation, ledger views, and time-weighted returns. | Python, Streamlit, pandas, PostgreSQL, dbt |
+| [Production-Website-Builder-skill](https://github.com/swamy-guruvelli/Production-Website-Builder-skill) | An open-source Codex skill that routes website work toward responsive, accessible, functional, secure, and browser-verified production outcomes. | Python, PowerShell, shell tooling, Codex skills |
 | [Wealthdata-project](https://github.com/swamy-guruvelli/Wealthdata-project) | A multi-provider investment-data platform with canonical mapping, schema-drift detection, deduplication, quarantine, auditing, and versioned APIs. | Python, Pydantic, PostgreSQL, dbt, FastAPI |
 | [investment-reconciliation-engine](https://github.com/swamy-guruvelli/investment-reconciliation-engine) | A reproducible engine that rebuilds holdings from synthetic transactions, compares snapshots with tolerances, and categorises exceptions. | Python, DuckDB, Pandera |
 | [ByteBachelor-projects](https://github.com/swamy-guruvelli/ByteBachelor-projects) | Fifteen progressive system-design labs covering APIs, caching, queues, chat, search, payments, observability, analytics, and multi-region systems. | Python, distributed-systems patterns |
