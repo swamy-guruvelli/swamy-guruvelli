@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=225&section=header&text=Swamy%20Guruvelli&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Data%20Builder%20%E2%80%A2%20Relentless%20Learner&descAlignY=57&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=225&section=header&text=Swamy%20Guruvelli&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20%26%20Product%20Engineer%20%E2%80%A2%20Data%20Systems%20%E2%80%A2%20AI-Assisted%20Delivery&descAlignY=57&descSize=18&animation=fadeIn"
     alt="Swamy Guruvelli | Software Engineer, Data Builder, Relentless Learner"
   />
 
@@ -18,9 +18,9 @@
   </p>
 </div>
 
-## Hello there, I’m Swamy
+## Hello there, I'm Swamy
 
-I am a software engineer with an MSc in Data Science and Analytics and a lot of enthusiasm for turning ambitious ideas into working systems.
+I build software products end to end—bringing a Data Engineering foundation to product thinking -> architecture -> implementation -> deployment, with coding agents as force multipliers.
 
 I learn by building. That has taken me from metadata-driven investment pipelines, temporal security masters, and portfolio analytics to an interactive system-design classroom, a local AI meeting assistant, mobile apps, job-search automation, and full-stack ordering products. I enjoy making complex flows understandable, reliable, and genuinely useful.
 
@@ -48,6 +48,9 @@ I learn by building. That has taken me from metadata-driven investment pipelines
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Remotion-000000?style=flat-square&logo=remotion&logoColor=white" alt="Remotion" />
+  <img src="https://img.shields.io/badge/GrapesJS-1572B6?style=flat-square&logo=html5&logoColor=white" alt="GrapesJS" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
   <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
 </p>
 
@@ -65,14 +68,20 @@ An interactive way to learn system design by watching requests move, understandi
 
 [Production Web Standard](https://github.com/swamy-guruvelli/Production-Website-Builder-skill) is an open-source Codex skill that turns ordinary website requests into a practical production contract covering responsive behavior, accessibility, security-aware routing, complete application states, and real browser verification.
 
+### Creative production tools
+
+[Sinema](https://github.com/swamy-guruvelli/Sinema) is a local-first video studio that turns version-controlled story specifications into reviewed, narrated Remotion renders. [Albumcrafter](https://github.com/swamy-guruvelli/Albumcrafter) is a local-first photo album studio for creating editable, print-friendly keepsakes with AI assistance while keeping editorial control in the browser.
+
 ## Complete repository map
 
-There are **13 project repositories** below nine public and four private plus the profile repository that powers this page.
+There are **16 project repositories** below—11 public and five private—plus the profile repository that powers this page.
 
 ### Public projects
 
 | Repository | What I built | Main technologies |
 | --- | --- | --- |
+| [Sinema](https://github.com/swamy-guruvelli/Sinema) | A local-first video studio that turns version-controlled story specifications into reviewed, narrated, reproducible MP4 renders. | TypeScript, React, Remotion, GSAP, Playwright |
+| [Albumcrafter](https://github.com/swamy-guruvelli/Albumcrafter) | A local-first photo album studio with editable layouts, browser saves, AI-assisted handoff, PNG/PDF export, and Cloudflare Worker packaging. | TypeScript, React, Vite, GrapesJS, Cloudflare Workers |
 | [metadata-driven-investment-pipelines](https://github.com/swamy-guruvelli/metadata-driven-investment-pipelines) | A configuration-led ingestion engine where YAML contracts define provider formats, mappings, validation, load strategies, PostgreSQL persistence, and quarantine handling. | Python, Pydantic, PostgreSQL, dbt, YAML |
 | [temporal-security-master](https://github.com/swamy-guruvelli/temporal-security-master) | A point-in-time security master that resolves ISINs, tickers, and LEIs across temporal versions while applying corporate actions without overlapping history. | Python, FastAPI, PostgreSQL, dbt, Pydantic |
 | [portfolio-analytics-data-mart](https://github.com/swamy-guruvelli/portfolio-analytics-data-mart) | A Streamlit data mart for synthetic portfolio valuations, SCD2 dimensions, adviser-scoped access, allocation, ledger views, and time-weighted returns. | Python, Streamlit, pandas, PostgreSQL, dbt |
@@ -81,7 +90,7 @@ There are **13 project repositories** below nine public and four private plus th
 | [investment-reconciliation-engine](https://github.com/swamy-guruvelli/investment-reconciliation-engine) | A reproducible engine that rebuilds holdings from synthetic transactions, compares snapshots with tolerances, and categorises exceptions. | Python, DuckDB, Pandera |
 | [ByteBachelor-projects](https://github.com/swamy-guruvelli/ByteBachelor-projects) | Fifteen progressive system-design labs covering APIs, caching, queues, chat, search, payments, observability, analytics, and multi-region systems. | Python, distributed-systems patterns |
 | [TaskMonkey](https://github.com/swamy-guruvelli/TaskMonkey) | A mobile-first task manager with reminders, biometric unlock, real-time data, and secure manager-to-user task assignment. | TypeScript, React Native, Expo, Firebase |
-| [Luck](https://github.com/swamy-guruvelli/Luck) | A small Android experiment that displays a random message once per interaction a simple early project focused on UI events and application state. | Java, Android, ConstraintLayout |
+| [Luck](https://github.com/swamy-guruvelli/Luck) | A small Android experiment that displays a random message once per interaction—a simple early project focused on UI events and application state. (First Hello world!) | Java, Android, ConstraintLayout |
 
 ### Private builds
 
@@ -89,6 +98,7 @@ There are **13 project repositories** below nine public and four private plus th
 | --- | --- | --- |
 | [`ByteBachelor`](https://bytebachelor.swamy-guruvelli1.workers.dev) 🔒| The interactive learning website behind the ByteBachelor ecosystem: animated request flows, plain-English lessons, architecture templates, validation, failure injection, and trace simulation. | React, TypeScript, Vite, React Flow |
 |[ `JobSearch`](https://mindkraft.co.uk) 🔒| A queue-driven JobSpy service that schedules role searches, processes one role at a time, stores new jobs securely, and exposes an acknowledge-after-receipt API. | Python, Flask, PostgreSQL, Supabase, Vercel |
+| [`MKRR`](https://github.com/swamy-guruvelli/MKRR) 🔒| A MindKraft-powered recruitment workspace for job discovery, Codex-assisted matching, document tailoring, human-reviewed applications, desktop packaging, browser extensions, and mobile access. | Next.js, TypeScript, FastAPI, Electron, Playwright, Expo |
 | [`RRR`](https://rams-restaurant.vercel.app) 🔒| Ram's Roaming Restaurant: a pickup-ordering MVP with menu management, admin authentication, persistent orders, image uploads, and a print-ready menu. | Next.js, TypeScript, Prisma, PostgreSQL, Tailwind |
 | [`Portfolio`](https://swamy-guruvelli.vercel.app) 🔒| A deployable personal portfolio whose content can be maintained through an authenticated CMS that commits structured updates back to GitHub. | HTML, CSS, JavaScript, Decap CMS, GitHub OAuth, Vercel |
 
