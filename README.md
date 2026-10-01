@@ -1,8 +1,8 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,45:1d4ed8,100:06b6d4&amp;height=225&amp;section=header&amp;text=Swamy%20Guruvelli&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20%26%20Product%20Engineer%20%E2%80%A2%20Data%20Systems%20%E2%80%A2%20AI-Assisted%20Delivery&amp;descAlignY=57&amp;descSize=18&amp;animation=fadeIn"
-    alt="Swamy Guruvelli | Software Engineer, Data Builder, Relentless Learner"
+    src="./assets/profile-header.svg"
+    alt="Swamy Guruvelli | Software and Product Engineer | Data Systems | AI-Assisted Delivery"
   />
 
   <p>

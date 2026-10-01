@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="225" viewBox="0 0 1200 225" role="img" aria-labelledby="title description">
+  <title id="title">Swamy Guruvelli</title>
+  <desc id="description">Software and Product Engineer, Data Systems, AI-Assisted Delivery</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a" />
+      <stop offset="0.55" stop-color="#1d4ed8" />
+      <stop offset="1" stop-color="#06b6d4" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="225" rx="18" fill="url(#background)" />
+  <circle cx="1050" cy="32" r="145" fill="#ffffff" fill-opacity="0.08" />
+  <circle cx="1120" cy="190" r="115" fill="#0f172a" fill-opacity="0.16" />
+  <path d="M0 183 C180 140 300 215 475 177 S780 140 950 181 S1120 205 1200 166 V225 H0Z" fill="#0f172a" fill-opacity="0.2" />
+  <rect x="80" y="67" width="1040" height="1" fill="url(#glow)" />
+  <text x="600" y="92" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="0.5">Swamy Guruvelli</text>
+  <text x="600" y="132" text-anchor="middle" fill="#e0f2fe" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="0.6">Software &amp; Product Engineer  •  Data Systems  •  AI-Assisted Delivery</text>
+</svg>
