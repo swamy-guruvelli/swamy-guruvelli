@@ -1,26 +1,26 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=225&section=header&text=Swamy%20Guruvelli&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20%26%20Product%20Engineer%20%E2%80%A2%20Data%20Systems%20%E2%80%A2%20AI-Assisted%20Delivery&descAlignY=57&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,45:1d4ed8,100:06b6d4&amp;height=225&amp;section=header&amp;text=Swamy%20Guruvelli&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20%26%20Product%20Engineer%20%E2%80%A2%20Data%20Systems%20%E2%80%A2%20AI-Assisted%20Delivery&amp;descAlignY=57&amp;descSize=18&amp;animation=fadeIn"
     alt="Swamy Guruvelli | Software Engineer, Data Builder, Relentless Learner"
   />
 
   <p>
     <a href="https://swamy-guruvelli.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/swamyguruvelli">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:swamy.guruvelli1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Swamy" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Swamy" />
     </a>
   </p>
 </div>
 
 ## Hello there, I'm Swamy
 
-I build software products end to end—bringing a Data Engineering foundation to product thinking -> architecture -> implementation -> deployment, with coding agents as force multipliers.
+I build software products end to end bringing a Data Engineering foundation to product thinking -> architecture -> implementation -> deployment, with coding agents as force multipliers.
 
 I learn by building. That has taken me from metadata-driven investment pipelines, temporal security masters, and portfolio analytics to an interactive system-design classroom, a local AI meeting assistant, mobile apps, job-search automation, and full-stack ordering products. I enjoy making complex flows understandable, reliable, and genuinely useful.
 
@@ -74,7 +74,7 @@ An interactive way to learn system design by watching requests move, understandi
 
 ## Complete repository map
 
-There are **16 project repositories** below—11 public and five private—plus the profile repository that powers this page.
+There are **16 project repositories** below 11 public and five private plus the profile repository that powers this page.
 
 ### Public projects
 
@@ -90,7 +90,7 @@ There are **16 project repositories** below—11 public and five private—plus 
 | [investment-reconciliation-engine](https://github.com/swamy-guruvelli/investment-reconciliation-engine) | A reproducible engine that rebuilds holdings from synthetic transactions, compares snapshots with tolerances, and categorises exceptions. | Python, DuckDB, Pandera |
 | [ByteBachelor-projects](https://github.com/swamy-guruvelli/ByteBachelor-projects) | Fifteen progressive system-design labs covering APIs, caching, queues, chat, search, payments, observability, analytics, and multi-region systems. | Python, distributed-systems patterns |
 | [TaskMonkey](https://github.com/swamy-guruvelli/TaskMonkey) | A mobile-first task manager with reminders, biometric unlock, real-time data, and secure manager-to-user task assignment. | TypeScript, React Native, Expo, Firebase |
-| [Luck](https://github.com/swamy-guruvelli/Luck) | A small Android experiment that displays a random message once per interaction—a simple early project focused on UI events and application state. (First Hello world!) | Java, Android, ConstraintLayout |
+| [Luck](https://github.com/swamy-guruvelli/Luck) | A small Android experiment that displays a random message once per interaction a simple early project focused on UI events and application state. (First Hello world!) | Java, Android, ConstraintLayout |
 
 ### Private builds
 
