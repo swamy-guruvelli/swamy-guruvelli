@@ -20,7 +20,7 @@
 
 ## Hello there, I'm Swamy
 
-I build software products end to end bringing a Data Engineering foundation to product thinking -> architecture -> implementation -> deployment, with coding agents as force multipliers.
+I build at the meeting point of product intuition and data discipline. I turn uncertain ideas into useful software, shaping architecture, experience, data, and deployment into one accountable journey. AI coding agents help me move faster, but curiosity, judgment, and ownership decide what is worth building.
 
 I learn by building. That has taken me from metadata-driven investment pipelines, temporal security masters, and portfolio analytics to an interactive system-design classroom, a local AI meeting assistant, mobile apps, job-search automation, and full-stack ordering products. I enjoy making complex flows understandable, reliable, and genuinely useful.
 
@@ -103,7 +103,7 @@ There are **16 project repositories** below 11 public and five private plus the 
 | [`Portfolio`](https://swamy-guruvelli.vercel.app) 🔒| A deployable personal portfolio whose content can be maintained through an authenticated CMS that commits structured updates back to GitHub. | HTML, CSS, JavaScript, Decap CMS, GitHub OAuth, Vercel |
 
 <div align="center">
- <strong>Good software makes complex work feel simple.</strong>
+ <strong>Build with curiosity. Ship with intent. Make the next idea easier to build.</strong>
   <br />
   <sub>Have an idea worth building? Connect me through.</sub>
 
