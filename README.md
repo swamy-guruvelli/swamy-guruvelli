@@ -56,6 +56,12 @@ I learn by building. That has taken me from metadata-driven investment pipelines
 
 ## Featured work
 
+### Samigatha
+
+[Samigatha](https://samigatha.com) is a small library for long-read fiction: original ideas and plot work are developed with agent-assisted writing under human direction, protecting dialogue, continuity, and the pleasure of the story. Authors can publish novels and chapters through a moderated workflow, while readers can return to their place, listen with an on-demand browser audiobook mode, follow highlighted paragraphs, and use multiple English voices for narration and dialogue.
+
+The separate artificial-life laboratory is an observatory for behaviour, not the reading product. It runs seeded agents with limited learning and live commentary so their cooperation, competition, adaptation, and emergent patterns can be watched without confusing simulation behaviour for authored fiction.
+
 ### ByteBachelor
 
 An interactive way to learn system design by watching requests move, understanding why every component exists, and experimenting with failure. The private React application combines animated architecture lessons with a browser-based design playground; its [public companion repository](https://github.com/swamy-guruvelli/ByteBachelor-projects) contains 15 runnable backend labs, progressing from a task API to multi-region architecture.
@@ -71,10 +77,6 @@ An interactive way to learn system design by watching requests move, understandi
 ### Creative production tools
 
 [Sinema](https://github.com/swamy-guruvelli/Sinema) is a local-first video studio that turns version-controlled story specifications into reviewed, narrated Remotion renders. [Albumcrafter](https://github.com/swamy-guruvelli/Albumcrafter) is a local-first photo album studio for creating editable, print-friendly keepsakes with AI assistance while keeping editorial control in the browser.
-
-### Artificial life systems
-
-[Samigatha](https://samigatha.com) is the reader-first publishing home for the Samigatha library, with manuscript import and publishing, chapter reading, reader accounts, comments, ratings, progress tracking, newsletter updates, and moderation. The wider project also explores deterministic artificial-life systems where seeded autonomous agents learn, cooperate, compete, reproduce, and adapt through tabular Q-learning.
 
 ## Complete repository map
 
