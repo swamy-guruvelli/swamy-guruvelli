@@ -72,9 +72,13 @@ An interactive way to learn system design by watching requests move, understandi
 
 [Sinema](https://github.com/swamy-guruvelli/Sinema) is a local-first video studio that turns version-controlled story specifications into reviewed, narrated Remotion renders. [Albumcrafter](https://github.com/swamy-guruvelli/Albumcrafter) is a local-first photo album studio for creating editable, print-friendly keepsakes with AI assistance while keeping editorial control in the browser.
 
+### Artificial life systems
+
+[Samigatha](https://samigatha.com) is the reader-first publishing home for the Samigatha library, with manuscript import and publishing, chapter reading, reader accounts, comments, ratings, progress tracking, newsletter updates, and moderation. The wider project also explores deterministic artificial-life systems where seeded autonomous agents learn, cooperate, compete, reproduce, and adapt through tabular Q-learning.
+
 ## Complete repository map
 
-There are **16 project repositories** below 11 public and five private plus the profile repository that powers this page.
+There are **17 project repositories** below: 11 public and six private, plus the profile repository that powers this page.
 
 ### Public projects
 
@@ -96,6 +100,7 @@ There are **16 project repositories** below 11 public and five private plus the 
 
 | Repository | What I built | Main technologies |
 | --- | --- | --- |
+| [`Samigatha`](https://samigatha.com) 🔒 | A reader-first serial-fiction platform for publishing and reading the Samigatha library, with manuscript workflows, reader accounts, comments, ratings, progress tracking, and moderation. | Next.js, React, TypeScript, Neon, Drizzle, Cloudflare Turnstile |
 | [`ByteBachelor`](https://bytebachelor.swamy-guruvelli1.workers.dev) 🔒| The interactive learning website behind the ByteBachelor ecosystem: animated request flows, plain-English lessons, architecture templates, validation, failure injection, and trace simulation. | React, TypeScript, Vite, React Flow |
 |[ `JobSearch`](https://mindkraft.co.uk) 🔒| A queue-driven JobSpy service that schedules role searches, processes one role at a time, stores new jobs securely, and exposes an acknowledge-after-receipt API. | Python, Flask, PostgreSQL, Supabase, Vercel |
 | [`MKRR`](https://github.com/swamy-guruvelli/MKRR) 🔒| A MindKraft-powered recruitment workspace for job discovery, Codex-assisted matching, document tailoring, human-reviewed applications, desktop packaging, browser extensions, and mobile access. | Next.js, TypeScript, FastAPI, Electron, Playwright, Expo |
